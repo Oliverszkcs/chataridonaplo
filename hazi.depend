@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1669888412 source:c:\users\loxom\desktop\programmer\nhfontheway\hataridonaplo\felszabad_fajlbair.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	<stdbool.h>
+	<string.h>
+	"Fuggvenyek.h"
+	"hozzad_torol.h"
+	"felszabad_fajlbair.h"
+
+1667390483 c:\users\loxom\desktop\programmer\nhfontheway\hataridonaplo\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1669889180 c:\users\loxom\desktop\programmer\nhfontheway\hataridonaplo\fuggvenyek.h
+
+1669903604 source:c:\users\loxom\desktop\programmer\nhfontheway\hataridonaplo\fuggvenyek.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	<stdbool.h>
+	<string.h>
+	"Fuggvenyek.h"
+	<conio.h>
+
+1669888412 source:c:\users\loxom\desktop\programmer\nhfontheway\hataridonaplo\hozzad_torol.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	<stdbool.h>
+	<string.h>
+	"Fuggvenyek.h"
+	"felszabad_fajlbair.h"
+	"hozzad_torol.h"
+
+1669889820 source:c:\users\loxom\desktop\programmer\nhfontheway\hataridonaplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"debugmalloc.h"
+	<stdbool.h>
+	<string.h>
+	"Fuggvenyek.h"
+
+1669888781 c:\users\loxom\desktop\programmer\nhfontheway\hataridonaplo\felszabad_fajlbair.h
+
+1669888821 c:\users\loxom\desktop\programmer\nhfontheway\hataridonaplo\hozzad_torol.h
+
