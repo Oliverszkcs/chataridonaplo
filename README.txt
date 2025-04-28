@@ -71,5 +71,5 @@ Egyszerű határidőnapló alkalmazás C nyelven, események tárolására és k
 **Tantárgy**: Programozás alapjai 2
 
 
-![Képernyőkép](images/loadedlist.png)
+![Képernyőkép](./images/loadedlist.png)
 
