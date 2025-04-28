@@ -72,3 +72,4 @@ Egyszerű határidőnapló alkalmazás C nyelven, események tárolására és k
 
 
 ![Képernyőkép](images/loadedlist.png)
+
